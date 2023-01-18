@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/kittens-website/static/css/main.abd64e84.css",
-    "main.js": "/kittens-website/static/js/main.2d1467bf.js",
+    "main.js": "/kittens-website/static/js/main.d3c34728.js",
     "index.html": "/kittens-website/index.html",
     "main.abd64e84.css.map": "/kittens-website/static/css/main.abd64e84.css.map",
-    "main.2d1467bf.js.map": "/kittens-website/static/js/main.2d1467bf.js.map"
+    "main.d3c34728.js.map": "/kittens-website/static/js/main.d3c34728.js.map"
   },
   "entrypoints": [
     "static/css/main.abd64e84.css",
-    "static/js/main.2d1467bf.js"
+    "static/js/main.d3c34728.js"
   ]
 }
