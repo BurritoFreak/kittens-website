@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kittens-website/static/css/main.abd64e84.css",
+    "main.js": "/kittens-website/static/js/main.2d1467bf.js",
+    "index.html": "/kittens-website/index.html",
+    "main.abd64e84.css.map": "/kittens-website/static/css/main.abd64e84.css.map",
+    "main.2d1467bf.js.map": "/kittens-website/static/js/main.2d1467bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.2d1467bf.js"
+  ]
+}
