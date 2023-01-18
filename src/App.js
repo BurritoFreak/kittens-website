@@ -9,6 +9,7 @@ import Blogs from './pages/blogs';
 import SignUp from './pages/signup';
 import Contact from './pages/contact';
 import Photos from './pages/photos';
+import NotFoundPage from './pages/notFoundPage';
 
 function App() {
 return (
@@ -20,7 +21,8 @@ return (
 		<Route path='/kittens-website/contact' element={<Contact/>} />
 		<Route path='/kittens-website/blogs' element={<Blogs/>} />
 		<Route path='/kittens-website/sign-up' element={<SignUp/>} />
-    <Route path='/kittens-website/photos' element={<Photos/>} />
+		<Route path='/kittens-website/photos' element={<Photos/>} />
+		<Route component={NotFoundPage} />
 	</Routes>
 	</Router>
 );
