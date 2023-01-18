@@ -7,22 +7,22 @@ return (
 	<>
 	<Nav>
 		<NavMenu>
-        <NavLink to="/PortTestThree/" activeStyle>
+        <NavLink to="/kittens-website/" activeStyle>
 			Home
 		</NavLink>
-		<NavLink to="/PortTestThree/about" activeStyle>
+		<NavLink to="/kittens-website/about" activeStyle>
 			About
 		</NavLink>
-		<NavLink to="/PortTestThree/contact" activeStyle>
+		<NavLink to="/kittens-website/contact" activeStyle>
 			Contact Us
 		</NavLink>
-		<NavLink to="/PortTestThree/blogs" activeStyle>
+		<NavLink to="/kittens-website/blogs" activeStyle>
 			Blogs
 		</NavLink>
-		<NavLink to="/PortTestThree/sign-up" activeStyle>
+		<NavLink to="/kittens-website/sign-up" activeStyle>
 			Sign Up
 		</NavLink>
-        <NavLink to="/PortTestThree/photos" activeStyle>
+        <NavLink to="/kittens-website/photos" activeStyle>
 			Photos
 		</NavLink>
 		</NavMenu>
