@@ -1,4 +1,5 @@
 import React from "react";
+import TwitchPlayer from "../components/twitchPlayer";
 
 const About = ({ match }) => {
 return (
@@ -6,6 +7,7 @@ return (
 	<h1>
 		About who?
 	</h1>
+	<TwitchPlayer />
 	</div>
 );
 };
