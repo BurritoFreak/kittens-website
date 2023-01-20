@@ -16,12 +16,12 @@ return (
 	<Router>
 	<Navbar />
 	<Routes>
-		<Route exact path='/kittens-website' element={<Home />} />
-		<Route path='/kittens-website/about' element={<About/>} />
-		<Route path='/kittens-website/contact' element={<Contact/>} />
-		<Route path='/kittens-website/blogs' element={<Blogs/>} />
-		<Route path='/kittens-website/sign-up' element={<SignUp/>} />
-		<Route path='/kittens-website/photos' element={<Photos/>} />
+		<Route exact path='/' element={<Home />} />
+		<Route path='/about' element={<About/>} />
+		<Route path='/contact' element={<Contact/>} />
+		<Route path='/blogs' element={<Blogs/>} />
+		<Route path='/sign-up' element={<SignUp/>} />
+		<Route path='/photos' element={<Photos/>} />
 		<Route component={NotFoundPage} />
 	</Routes>
 	</Router>
