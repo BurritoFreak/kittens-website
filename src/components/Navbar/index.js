@@ -10,20 +10,17 @@ return (
         <NavLink to="/" activeStyle>
 			Home
 		</NavLink>
+		<NavLink to="/links" activeStyle>
+			Links
+		</NavLink>
 		<NavLink to="/about" activeStyle>
-			About
-		</NavLink>
-		<NavLink to="/contact" activeStyle>
-			Contact Us
-		</NavLink>
-		<NavLink to="/blogs" activeStyle>
-			Blogs
-		</NavLink>
-		<NavLink to="/sign-up" activeStyle>
-			Sign Up
+			About Me
 		</NavLink>
         <NavLink to="/photos" activeStyle>
 			Photos
+		</NavLink>
+		<NavLink to="/contact" activeStyle>
+			Contact Me
 		</NavLink>
 		</NavMenu>
 	</Nav>
