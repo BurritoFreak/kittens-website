@@ -7,7 +7,6 @@ return (
 	<h1>
 		About who?
 	</h1>
-	<TwitchPlayer />
 	</div>
 );
 };

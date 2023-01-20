@@ -25,6 +25,9 @@ return (
 		<NavLink to="/games" activestyle>
 			Games
 		</NavLink>
+		<NavLink to="/test" activestyle>
+			Test
+		</NavLink>
 		</NavMenu>
 	</Nav>
 	</>

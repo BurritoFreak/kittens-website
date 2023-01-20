@@ -1,3 +1,8 @@
+body {
+  background: black;
+  color: azure;
+}
+
 .App {
   text-align: center;
 }
@@ -41,7 +46,7 @@
   text-align: center;
   margin-top: 20px;
   padding: 20px;
-  border: 1px solid black;
+  border: 1px solid rgb(255, 255, 255);
   border-width: 2px;
   width: 290px;
   display: block;
@@ -49,13 +54,14 @@
   margin-right: auto;
   border-radius: 40px;
   text-decoration: none;
-  color: black;
+  color: rgb(255, 255, 255);
   transition:  1s; 
 }
 
 .links:hover {
 color: rgb(255, 255, 255);
 background: rgb(54, 0, 105);
+border: 1px solid rgb(54, 0, 105);
 }
 
 a:hover {

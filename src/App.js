@@ -9,6 +9,7 @@ import Links from './pages/links';
 import Contact from './pages/contact';
 import Photos from './pages/photos';
 import Games from './pages/games';
+import TestPage from './pages/testPage';
 import NotFoundPage from './pages/notFoundPage';
 
 function App() {
@@ -22,6 +23,7 @@ return (
 		<Route exact path='/links' element={<Links/>} />
 		<Route exact path='/photos' element={<Photos/>} />
 		<Route exact path='/games' element={<Games/>} />
+		<Route exact path='/test' element={<TestPage/>} />
 		<Route path ='*' element={<NotFoundPage/>} />
 	</Routes>
 	</Router>
