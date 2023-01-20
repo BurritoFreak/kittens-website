@@ -7,22 +7,22 @@ return (
 	<>
 	<Nav>
 		<NavMenu>
-        <NavLink to="/kittens-website/" activeStyle>
+        <NavLink to="/" activeStyle>
 			Home
 		</NavLink>
-		<NavLink to="/kittens-website/about" activeStyle>
+		<NavLink to="/about" activeStyle>
 			About
 		</NavLink>
-		<NavLink to="/kittens-website/contact" activeStyle>
+		<NavLink to="/contact" activeStyle>
 			Contact Us
 		</NavLink>
-		<NavLink to="/kittens-website/blogs" activeStyle>
+		<NavLink to="/blogs" activeStyle>
 			Blogs
 		</NavLink>
-		<NavLink to="/kittens-website/sign-up" activeStyle>
+		<NavLink to="/sign-up" activeStyle>
 			Sign Up
 		</NavLink>
-        <NavLink to="/kittens-website/photos" activeStyle>
+        <NavLink to="/photos" activeStyle>
 			Photos
 		</NavLink>
 		</NavMenu>
