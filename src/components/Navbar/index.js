@@ -7,20 +7,23 @@ return (
 	<>
 	<Nav>
 		<NavMenu>
-        <NavLink to="/" activeStyle>
+        <NavLink to="/" activestyle>
 			Home
 		</NavLink>
-		<NavLink to="/links" activeStyle>
+		<NavLink to="/links" activestyle>
 			Links
 		</NavLink>
-		<NavLink to="/about" activeStyle>
+		<NavLink to="/about" activestyle>
 			About Me
 		</NavLink>
-        <NavLink to="/photos" activeStyle>
+        <NavLink to="/photos" activestyle>
 			Photos
 		</NavLink>
-		<NavLink to="/contact" activeStyle>
+		<NavLink to="/contact" activestyle>
 			Contact Me
+		</NavLink>
+		<NavLink to="/games" activestyle>
+			Games
 		</NavLink>
 		</NavMenu>
 	</Nav>

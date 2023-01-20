@@ -8,6 +8,7 @@ import About from './pages/about';
 import Links from './pages/links';
 import Contact from './pages/contact';
 import Photos from './pages/photos';
+import Games from './pages/games';
 import NotFoundPage from './pages/notFoundPage';
 
 function App() {
@@ -20,6 +21,7 @@ return (
 		<Route exact path='/contact' element={<Contact/>} />
 		<Route exact path='/links' element={<Links/>} />
 		<Route exact path='/photos' element={<Photos/>} />
+		<Route exact path='/games' element={<Games/>} />
 		<Route path ='*' element={<NotFoundPage/>} />
 	</Routes>
 	</Router>
