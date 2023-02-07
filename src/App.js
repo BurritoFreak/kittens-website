@@ -12,7 +12,9 @@ import Games from './pages/games';
 import TestPage from './pages/testPage';
 
 function App() {
+
 return (
+	<>
 	<Router>
 	<Navbar />
 	<Routes>
@@ -25,6 +27,7 @@ return (
 		<Route exact path='/test' element={<TestPage/>} />
 	</Routes>
 	</Router>
+	</>
 );
 }
 
