@@ -3,6 +3,14 @@ body {
   color: azure;
 }
 
+.Name {
+  color: #ffffff;
+  background-color: #ffb3ff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .App {
   text-align: center;
 }
@@ -40,6 +48,14 @@ body {
   to {
     transform: rotate(360deg);
   }
+}
+
+.two-boxes {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-top: 20px;
 }
 
 .links {
