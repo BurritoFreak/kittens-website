@@ -5,7 +5,7 @@ body {
 
 .Name {
   color: #ffffff;
-  background-color: #ffb3ff;
+  background-color: #9427fb;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -76,8 +76,8 @@ body {
 
 .links:hover {
 color: rgb(255, 255, 255);
-background: rgb(54, 0, 105);
-border: 1px solid rgb(54, 0, 105);
+background: #9427fb;
+border: 1px solid #9427fb;
 }
 
 a:hover {
@@ -86,6 +86,6 @@ a:hover {
 
 h1 {
   text-align: center;
-  color: #8400ff;
+  color: #9427fb;
   font-size: xx-large;
 }

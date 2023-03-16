@@ -23,10 +23,10 @@ myLinks.forEach((linked, index) => {
 
 const Links = () => {
   return <>
-  <h1>Links</h1>
-  <div>{results}</div>
   <h1>Spicy Links</h1>
   <div>{spicy}</div>
+  <h1>Links</h1>
+  <div>{results}</div>
   </>
 };
 
