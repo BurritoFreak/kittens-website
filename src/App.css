@@ -83,3 +83,8 @@ border: 1px solid rgb(54, 0, 105);
 a:hover {
   color: rgb(255, 255, 255);
 }
+
+h1 {
+  text-align: center;
+  color: #8400ff;
+}

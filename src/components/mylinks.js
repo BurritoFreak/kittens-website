@@ -30,7 +30,7 @@ const myLinks = [{
         "name": "Reddit",
         "url": "https://www.reddit.com/user/emokitten_xoxo/",
         "icon": "fab fa-reddit",
-        "spicy": false
+        "spicy": true
     },{
         "name": "Twitter",
         "url": "https://twitter.com/emokitten_xoxo",
