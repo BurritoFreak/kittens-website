@@ -23,12 +23,6 @@ return (
 		<NavLink to="/contact" activestyle>
 			Contact Me
 		</NavLink>
-		<NavLink to="/games" activestyle>
-			Games
-		</NavLink>
-		<NavLink to="/test" activestyle>
-			Test
-		</NavLink>
 		</NavMenu>
 	</Nav>
 	</>

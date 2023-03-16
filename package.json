@@ -24,7 +24,7 @@
     "eject": "react-scripts eject",
     "add-domain": "echo \"emokittenxo.com\" > build/CNAME",
     "predeploy": "npm run build",
-    "deploy": "npm run add-domain && gh-pages -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [

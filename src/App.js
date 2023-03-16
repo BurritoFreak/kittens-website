@@ -8,14 +8,13 @@ import About from './pages/about';
 import Links from './pages/links';
 import Contact from './pages/contact';
 import Photos from './pages/photos';
-import Games from './pages/games';
 import TestPage from './pages/testPage';
 
 function App() {
 
 return (
 	<>
-	<Router>
+	<Router basename='/kittens-website'>
 	<Navbar />
 	<Routes>
 		<Route exact path='/' element={<Home />} />
@@ -23,7 +22,6 @@ return (
 		<Route exact path='/contact' element={<Contact/>} />
 		<Route exact path='/links' element={<Links/>} />
 		<Route exact path='/photos' element={<Photos/>} />
-		<Route exact path='/games' element={<Games/>} />
 		<Route exact path='/test' element={<TestPage/>} />
 	</Routes>
 	</Router>
