@@ -43,7 +43,7 @@ color: #808080;
 export const NavMenu = styled.div`
 display: flex;
 align-items: center;
-margin-right: -24px;
+align-content: center;
 /* Second Nav */
 /* margin-right: 24px; */
 /* Third Nav */
