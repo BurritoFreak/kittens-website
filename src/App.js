@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
 import Navbar from './components/Navbar';
+import Footer from './components/footer';
 import { BrowserRouter as Router, Routes, Route}
 	from 'react-router-dom';
 import Home from './pages';
@@ -24,6 +25,7 @@ return (
 		<Route exact path='/photos' element={<Photos/>} />
 		<Route exact path='/test' element={<TestPage/>} />
 	</Routes>
+	<Footer />
 	</Router>
 	</>
 );

@@ -23,10 +23,10 @@ myLinks.forEach((linked, index) => {
 });
 
 if (spicy.length > results.length) {
-  cardheight = (spicy.length+1.5)*80;
+  cardheight = (spicy.length+1.5)*100;
 }
 else {
-  cardheight = (results.length+1.5)*80;
+  cardheight = (results.length+1.5)*100;
 }
 
 
@@ -35,7 +35,7 @@ const Links = () => {
   <div class="cards-list">
     <div class="card 1" style={{height:cardheight}}>
       <div class="card_image">
-        <img src="https://media.giphy.com/media/l3q2Sd4NmhlohESvm/giphy.gif" />
+        <img src="https://cdn.discordapp.com/attachments/1041632587430502422/1086087826451468369/79258b821e72f84d1be8490c5a6f18f4.png" />
       </div>
       <div class="card_title title-white">
         <h1>Spicy Links</h1>
@@ -44,7 +44,7 @@ const Links = () => {
     </div>
     <div class="card 2" style={{height:cardheight}}>
       <div class="card_image">
-        <img src="https://media.giphy.com/media/l3q2Sd4NmhlohESvm/giphy.gif" />
+        <img src="https://cdn.discordapp.com/attachments/1041632587430502422/1086087551221243954/FsAJQ7.png" />
       </div>
       <div class="card_title title-white">
         <h1>Links</h1>

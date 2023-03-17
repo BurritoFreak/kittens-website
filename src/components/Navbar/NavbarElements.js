@@ -4,7 +4,6 @@ import styled from "styled-components";
 
 export const Nav = styled.nav`
 background: #9427fb;
-height: 100px;
 width: 100%;
 display: flex;
 flex-direction: column;
@@ -18,7 +17,7 @@ color: #ffffff;
 display: flex;
 align-items: center;
 text-decoration: none;
-padding: 0 1rem 1.5rem;
+padding: 0 1rem;
 height: 100%;
 cursor: pointer;
 &.active {
