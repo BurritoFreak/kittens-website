@@ -35,7 +35,7 @@ const myLinks = [{
         "name": "Twitter",
         "url": "https://twitter.com/emokitten_xoxo",
         "icon": "fab fa-twitter",
-        "spicy": false
+        "spicy": true
     },{
         "name": "Twitch",
         "url": "https://www.twitch.tv/emokitten_xoxo",
