@@ -182,3 +182,9 @@ a:hover {
   background: #9427fb;
   margin-bottom: 0;
 }
+
+canvas {
+  position: absolute;
+  z-index: -1;
+  top: 0;
+}
