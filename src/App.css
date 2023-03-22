@@ -1,5 +1,5 @@
 body {
-  background: black;
+  background: #232323;
   color: azure;
   font-family: 'Jim Nightshade';
   font-size: 25px;
@@ -8,6 +8,12 @@ body {
 
 .Name {
   color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Logo {
   display: flex;
   justify-content: center;
   align-items: center;

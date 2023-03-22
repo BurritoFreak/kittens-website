@@ -6,8 +6,8 @@ export const Nav = styled.nav`
 background: #9427fb;
 width: 100%;
 display: flex;
-flex-direction: column;
-justify-content: space-around;
+flex-direction: row;
+justify-content: space-between;
 align-items: center;
 z-index: 12;
 `;
