@@ -7,7 +7,9 @@ return (
 	<>
 	<Nav>
 		<div className="Logo">
-			<image src="public\Logo.png" alt="EmoKitten_xoxo" width="500px" height="500px"/>
+			<a className="homebutton" href="/">
+				<img className="homebutton" src="https://cdn.discordapp.com/attachments/1049430258287386711/1073362080167637043/Logo.png" alt=""/>
+			</a>
 			<h1 className="Name">EmoKitten_xoxo</h1>
 		</div>
 		<NavMenu>

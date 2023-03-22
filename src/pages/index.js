@@ -10,7 +10,7 @@ return (
 			<p>sffgfdgfgfdgfdsgfsgs</p>
 		</div>
 		<h1>Twitch</h1>
-		<div style={{display:"flex",justifyContent:"center"}}>
+		<div class="TwitchBox" style={{display:"flex",justifyContent:"center"}}>
 			<TwitchPlayer />
 		</div>
 		<h1>Social Feed</h1>
