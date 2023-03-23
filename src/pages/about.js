@@ -4,24 +4,31 @@ import TwitchPlayer from "../components/twitchPlayer";
 const About = ({ match }) => {
 return (
 <>
-<div>
-	<h1>Welcome to the internet</h1>
-	<div class="two-boxes">
-		<img src="https://i.imgur.com/JuDcwNx.jpeg" alt=""/>
-		<div>
-			<h1>Me</h1>
-			<p>sffgfdgfgfdgfdsgfsgs</p>
-		</div>
+<h1>About Me</h1>
+<div class="two-boxes">
+	<div>
+	<img src="https://i.imgur.com/nIIUDGQ.jpeg" alt=""/>
+	</div>
+	<div class="about-text">
+		<p>Hey my name is Kat, I am a content creator. I stream on twitch, and make content for onlyfans, as well as tiktok, instagram, reddit, and twitter. I love my job, and getting to interact with and meet new people!</p>
 	</div>
 </div>
-<div>
-	<div class="two-boxes">
-		<div>
-			<h1>More Random Junk</h1>
-			<p>sffgfdgfgfdgfdsgfsgs</p>
-		</div>
-		<img src="https://i.imgur.com/JuDcwNx.jpeg" alt=""/>
-		</div>
+<div class="two-boxes">
+	<div class="about-text">
+		<p>I love gaming. My favourite game is Zelda, but I play a lot of different games. I spend a lot of my free time working on my art; I love drawing and painting, and have been getting into digital art. Recently I've taken a liking to cars, and am looking forward to working on mine.
+		</p>
+	</div>
+	<div>
+		<img src="https://i.imgur.com/WsQDoas.jpeg" alt=""/>
+	</div>
+	</div>
+<div class="two-boxes">
+	<div>
+		<img src="https://i.imgur.com/wuv5pb7.jpeg" alt=""/>
+	</div>
+	<div class="about-text">
+		<p>I have also taken up the hobby of tattooing myself, which is lots of fun, expressing my artistic side outside of paper and canvas. Sometimes I stream my tattoos on twitch as well, while I chat with my wonderful community.</p>
+	</div>
 </div>
 </>
 );

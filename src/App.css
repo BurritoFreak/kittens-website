@@ -65,14 +65,28 @@ body {
 .two-boxes {
   display: flex;
   flex-direction: row;
-  justify-content: space-evenly;
+  justify-content: space-around;
   align-items: center;
-  margin-top: 20px;
+  margin: 0 10vw;
+}
+
+.two-boxes div {
+  margin: 0 2.5vw;
+}
+
+.two-boxes div img {
+  width: 37.15vw;
+}
+
+.frontpage-text p {
+  font-size: max(25px,2vw);
+  text-align: center;
+  margin: 10vw;
 }
 
 .TwitchBox div {
   width: 80vw;
-  height: auto;
+  height: 1080px;
 }
 
 h1 {
