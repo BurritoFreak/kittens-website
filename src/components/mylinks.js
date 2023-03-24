@@ -2,6 +2,11 @@
 //React element in json form with all of my links
 
 const myLinks = [{
+        "name": "Discord",
+        "url": "https://discord.gg/UHSSxzcH7X",
+        "icon": "fab fa-discord",
+        "spicy": false
+    },{
         "name": "Insta",
         "url": "https://www.instagram.com/emokitten_xoxo/",
         "icon": "fab fa-instagram",

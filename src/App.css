@@ -78,6 +78,11 @@ body {
   width: 37.15vw;
 }
 
+.two-boxes div p {
+  font-size: max(25px,2vw);
+  text-align: center;
+}
+
 .frontpage-text p {
   font-size: max(25px,2vw);
   text-align: center;
@@ -190,7 +195,7 @@ box-shadow: 5px 5px 30px 7px rgba(0,0,0,0.25), -5px -5px 30px 7px rgba(0,0,0,0.2
   color: rgb(255, 255, 255);
   transition:  1s; 
   position: relative;
-  z-index: 1;
+  z-index: 11;
   font-family: 'Jim Nightshade'
 }
 
@@ -210,4 +215,26 @@ a:hover {
   width: 100%;
   background: #9427fb;
   margin-bottom: 0;
+}
+
+@media (min-width: 768px) {
+  /* show standard nav menu and hide burger menu on larger screens */
+  .burgerMenu {
+    display: none;
+  }
+
+  .Nav {
+    display: block;
+  }
+}
+
+@media (max-width: 767px) {
+  /* show burger menu and hide standard nav menu on smaller screens */
+  .burgerMenu {
+    display: block;
+  }
+
+  .Nav {
+    display: none;
+  }
 }

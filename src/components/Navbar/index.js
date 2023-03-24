@@ -22,9 +22,6 @@ return (
 			<NavLink to="/about" activestyle>
 				About Me
 			</NavLink>
-			<NavLink to="/photos" activestyle>
-				Photos
-			</NavLink>
 			<NavLink to="/contact" activestyle>
 				Contact Me
 			</NavLink>
