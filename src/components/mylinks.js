@@ -17,7 +17,7 @@ const myLinks = [{
         "icon": "fab fa-onlyfans",
         "spicy": true
     },{
-        "name": "Tik Tok 1",
+        "name": "Tik Tok",
         "url": "https://www.tiktok.com/@emokitten_xo",
         "icon": "fab fa-tiktok",
         "spicy": false
