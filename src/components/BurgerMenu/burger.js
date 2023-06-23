@@ -3,11 +3,21 @@ import { NavLink as Link } from "react-router-dom";
 
 // class="burgerMenu"
 
+function showMe() {
+var chboxs = document.getElementById("toggle").checked;
+var vis = "none";
+    if(chboxs){
+    vis = "none"; }
+    else{
+    vis = "flex"; }
+document.getElementById("cards").style.display = vis;
+}
+
 const BurgerMenu = () => {
 
     return (
         <div class="burgerMenu">
-        <input id="toggle" type="checkbox"></input>
+        <input id="toggle" type="checkbox" class="bugerbox" onChange={showMe}></input>
 
         <label for="toggle" class="hamburger">
         <div class="top-bun"></div>

@@ -32,7 +32,7 @@ else {
 
 const Links = () => {
   return ( 
-  <div class="cards-list">
+  <div class="cards-list" id="cards">
     <div class="card 1" style={{height:cardheight}}>
       <div class="card_image">
         <img src="https://cdn.discordapp.com/attachments/1041632587430502422/1086087826451468369/79258b821e72f84d1be8490c5a6f18f4.png" />

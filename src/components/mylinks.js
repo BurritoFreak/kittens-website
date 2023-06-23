@@ -18,17 +18,7 @@ const myLinks = [{
         "spicy": true
     },{
         "name": "Tik Tok 1",
-        "url": "https://www.tiktok.com/@emokitten_xoxo",
-        "icon": "fab fa-tiktok",
-        "spicy": false
-    },{
-        "name": "Tik Tok 2",
-        "url": "https://www.tiktok.com/@emokitten_xoxo_",
-        "icon": "fab fa-tiktok",
-        "spicy": false
-    },{
-        "name": "Tik Tok 3",
-        "url": "https://www.tiktok.com/@emokittenxoxox",
+        "url": "https://www.tiktok.com/@emokitten_xo",
         "icon": "fab fa-tiktok",
         "spicy": false
     },{
