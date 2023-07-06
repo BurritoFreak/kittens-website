@@ -29,7 +29,6 @@ const BurgerMenu = () => {
             <div class="burger-wrapper">
                 <nav class="nav-burger-nav">
                     <Link to="/">Home</Link><br />
-                    <Link to="/links">Links</Link><br />
                     <Link to="/about">About Me</Link><br />
                     <Link to="/contact">Contact Me</Link><br />
                 </nav>
