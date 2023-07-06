@@ -19,7 +19,7 @@ return (
 		</p>
 	</div>
 	<div>
-		<img src="https://i.imgur.com/WsQDoas.jpeg" alt=""/>
+		<img src="https://media.discordapp.net/attachments/1126595847245811824/1126633115218088077/IMG_2784.jpg?width=528&height=671" alt=""/>
 	</div>
 	</div>
 <div class="two-boxes">
