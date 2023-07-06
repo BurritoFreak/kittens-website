@@ -14,7 +14,7 @@ const myLinks = [{
     },{
         "name": "OnlyFans",
         "url": "https://onlyfans.com/emokitten_xoxo",
-        "icon": "fab fa-onlyfans",
+        "icon": "fa-solid fa-pepper-hot",
         "spicy": true
     },{
         "name": "Tik Tok",

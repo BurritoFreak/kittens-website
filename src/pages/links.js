@@ -1,7 +1,10 @@
 import React from "react";
 import myLinks from '../components/mylinks';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faCoffee } from '@fortawesome/free-solid-svg-icons'
+import { library } from '@fortawesome/fontawesome-svg-core';
+import { fas } from '@fortawesome/free-solid-svg-icons';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+
+library.add(fas);
 
 const results = [];
 const spicy = [];
@@ -11,15 +14,14 @@ myLinks.forEach((linked, index) => {
     if (linked.spicy) {
         spicy.push(
             <div key={index}>
-                <FontAwesomeIcon icon={["fal", "coffee"]} />
-                <a href={linked.url} class="links">{linked.name}</a>
+                <a href={linked.url} class="links"><FontAwesomeIcon icon={linked.icon} />  {linked.name}</a>
             </div>
             );
     }
     else {
         results.push(
             <div key={index}>
-                <a href={linked.url} class="links">{linked.name}</a>
+                <a href={linked.url} class="links"><FontAwesomeIcon icon={linked.icon} />  {linked.name}</a>
             </div>
         );
         };
