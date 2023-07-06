@@ -16,9 +16,6 @@ return (
 			<NavLink to="/" activestyle>
 				Home
 			</NavLink>
-			<NavLink to="/links" activestyle>
-				Links
-			</NavLink>
 			<NavLink to="/about" activestyle>
 				About Me
 			</NavLink>

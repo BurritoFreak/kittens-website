@@ -7,7 +7,7 @@ const myLinks = [{
         "icon": "fab fa-discord",
         "spicy": false
     },{
-        "name": "Insta",
+        "name": "Instagram",
         "url": "https://www.instagram.com/emokitten_xoxo/",
         "icon": "fab fa-instagram",
         "spicy": false

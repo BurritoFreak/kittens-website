@@ -7,7 +7,7 @@ return (
 <h1>About Me</h1>
 <div class="two-boxes">
 	<div>
-	<img src="https://i.imgur.com/nIIUDGQ.jpeg" alt=""/>
+	<img src="https://cdn.discordapp.com/attachments/1041632587430502422/1086047786488840222/IMG_1655.JPG" alt=""/>
 	</div>
 	<div class="about-text">
 		<p>Hey my name is Kat, I am a content creator. I stream on twitch, and make content for onlyfans, as well as tiktok, instagram, reddit, and twitter. I love my job, and getting to interact with and meet new people!</p>
