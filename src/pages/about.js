@@ -7,7 +7,7 @@ return (
 <h1>About Me</h1>
 <div class="two-boxes">
 	<div>
-	<img src="https://cdn.discordapp.com/attachments/1041632580502422/1086047788840222/IMG_1655.JPG" alt=""/>
+	<img src="https://cdn.discordapp.com/attachments/1041632545580502422/1086044547788840222/IMG_1655.JPG" alt=""/>
 	</div>
 	<div class="about-text">
 		<p>Hey my name is Kat, I am a content creator. I stream on twitch, and make content for onlyfans, as well as tiktok, instagram, reddit, and twitter. I love my job, and getting to interact with and meet new people!</p>
@@ -19,12 +19,12 @@ return (
 		</p>
 	</div>
 	<div>
-		<img src="https://media.discordapp.net/attachments/1126597245811824/1663311218088077/IMG_2784.jpg" alt=""/>
+		<img src="https://cdn.discordapp.com/attachments/1126595847245811824/1126633115218088077/IMG_2784.jpg" alt=""/>
 	</div>
 	</div>
 <div class="two-boxes">
 	<div>
-		<img src="https://media.discordapp.net/attachments/1126597245811824/1663311218088077/IMG_2443.jpg" alt=""/>
+		<img src="https://media.discordapp.net/attachments/1126597245454811824/1663311545218088077/IMG_2443.jpg" alt=""/>
 	</div>
 	<div class="about-text">
 		<p>I have also taken up the hobby of tattooing myself, which is lots of fun, expressing my artistic side outside of paper and canvas. Sometimes I stream my tattoos on twitch as well, while I chat with my wonderful community.</p>
