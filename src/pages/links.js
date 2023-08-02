@@ -24,7 +24,6 @@ cardheight = (results.length+1.5)*100;
 const Links = () => {
     return ( 
     <div class="cards-list" id="cards">
-        <h1>Links</h1>
         <div>{results}</div>
 </div>
 )};
