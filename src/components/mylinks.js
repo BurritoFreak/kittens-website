@@ -18,7 +18,7 @@ const myLinks = [{
         "spicy": false
     },{
         "name": "Tik Tok",
-        "url": "https://www.tiktok.com/@emokitten_xox",
+        "url": "https://www.tiktok.com/@emokitten_xoxo",
         "icon": "fab fa-tiktok",
         "spicy": false
     },{
