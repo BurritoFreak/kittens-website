@@ -2,8 +2,13 @@
 //React element in json form with all of my links
 
 const myLinks = [{
-        "name": "OnlyFans",
+        "name": "VIP OnlyFans",
         "url": "https://onlyfans.com/emokitten_xoxo",
+        "icon": "fa-solid fa-pepper-hot",
+        "spicy": false
+    },{
+        "name": "Free OnlyFans",
+        "url": "https://onlyfans.com/emokitten_xox",
         "icon": "fa-solid fa-pepper-hot",
         "spicy": false
     },{
