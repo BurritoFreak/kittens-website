@@ -3,12 +3,12 @@
 
 const myLinks = [{
         "name": "VIP OnlyFans",
-        "url": "https://onlyfans.com/emokitten_xoxo",
+        "url": "https://onlyfans.com/emokitten_xoxo/c17",
         "icon": "fa-solid fa-pepper-hot",
         "spicy": false
     },{
         "name": "Free OnlyFans",
-        "url": "https://onlyfans.com/emokitten_xox",
+        "url": "https://onlyfans.com/emokitten_xox/c2",
         "icon": "fa-solid fa-pepper-hot",
         "spicy": false
     },{
