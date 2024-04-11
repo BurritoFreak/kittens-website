@@ -21,11 +21,6 @@ const myLinks = [{
         "url": "https://twitter.com/emokitten_xoxo",
         "icon": "fab fa-twitter",
         "spicy": false
-    },{
-        "name": "Reddit",
-        "url": "https://www.reddit.com/user/emokitten_xoxo/",
-        "icon": "fab fa-reddit",
-        "spicy": false
     }];
 
 export default myLinks
