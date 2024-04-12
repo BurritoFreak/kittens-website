@@ -1,13 +1,14 @@
 import React from "react";
 import TwitchPlayer from "../components/twitchPlayer";
 
+
 const About = ({ match }) => {
 return (
 <>
 <h1>About Me</h1>
 <div class="two-boxes">
 	<div>
-	<img src="https://cdn.discordapp.com/attachments/1126595847245811824/1179308865062441013/IMG_5080.jpg" alt=""/>
+		<img src={process.env.PUBLIC_URL + "/IMG_5080.jpg"} alt=""/>
 	</div>
 	<div class="about-text">
 		<p>Hey my name is Kat, I am a content creator. I stream on twitch, and make content for onlyfans, as well as tiktok, instagram, reddit, and twitter. I love my job, and getting to interact with and meet new people!</p>
@@ -19,12 +20,12 @@ return (
 		</p>
 	</div>
 	<div>
-		<img src="https://cdn.discordapp.com/attachments/1126595847245811824/1126633115218088077/IMG_2784.jpg" alt=""/>
+		<img src={process.env.PUBLIC_URL + "/IMG_2784.jpg"} alt=""/>
 	</div>
 	</div>
 <div class="two-boxes">
 	<div>
-		<img src="https://cdn.discordapp.com/attachments/1126595847245811824/1128791061624520787/20230211-_DSC5024_1.jpg" alt=""/>
+		<img src={process.env.PUBLIC_URL + "/20230211-_DSC5024_1.jpg"} alt=""/>
 	</div>
 	<div class="about-text">
 		<p>I have also taken up the hobby of tattooing myself, which is lots of fun, expressing my artistic side outside of paper and canvas. Sometimes I stream my tattoos on twitch as well, while I chat with my wonderful community.</p>

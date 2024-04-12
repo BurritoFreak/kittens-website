@@ -28,8 +28,9 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "add-domain": "echo \"emokittenxo.com\" > build/CNAME",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "predeploy": "npm run build && npm run add-domain",
+    "deploy": "gh-pages -d build",
+    "postdeploy": "git checkout gh-pages && echo \"emokittenxo.com\" > CNAME && git add CNAME && git commit -m \"Add CNAME\" && git push origin gh-pages && git checkout -"
   },
   "eslintConfig": {
     "extends": [
