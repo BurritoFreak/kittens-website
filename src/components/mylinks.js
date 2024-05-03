@@ -21,6 +21,21 @@ const myLinks = [{
         "url": "https://twitter.com/emokitten_xoxo",
         "icon": "fab fa-twitter",
         "spicy": false
+    },{
+        "name": "Discord",
+        "url": "https://discord.gg/q2Ha3Wkc",
+        "icon": "fab fa-discord",
+        "spicy": false
+    },{
+        "name": "Twitch",
+        "url": "https://www.twitch.tv/emokitten_xoxo",
+        "icon": "fab fa-twitch",
+        "spicy": false
+    },{
+        "name": "alternate OF",
+        "url": "https://onlyfans.com/emokitten_xox",
+        "icon": "fa-solid fa-pepper-hot",
+        "spicy": false
     }];
 
 export default myLinks
