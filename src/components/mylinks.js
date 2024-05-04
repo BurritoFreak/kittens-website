@@ -31,11 +31,6 @@ const myLinks = [{
         "url": "https://www.twitch.tv/emokitten_xoxo",
         "icon": "fab fa-twitch",
         "spicy": false
-    },{
-        "name": "alternate OF",
-        "url": "https://onlyfans.com/emokitten_xox",
-        "icon": "fa-solid fa-pepper-hot",
-        "spicy": false
     }];
 
 export default myLinks
