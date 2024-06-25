@@ -23,7 +23,7 @@ const myLinks = [{
         "spicy": false
     },{
         "name": "Discord",
-        "url": "https://discord.gg/q2Ha3Wkc",
+        "url": "https://discord.gg/bBgkxS266t",
         "icon": "fab fa-discord",
         "spicy": false
     },{
